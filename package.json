@@ -1,0 +1,28 @@
+{
+  "name": "HRBOT",
+  "version": "1.0.0",
+  "description": "Bot Slip Gaji",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimprodev/HRBOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimprodev/HRBOT/issues"
+  },
+  "homepage": "https://github.com/mimprodev/HRBOT#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1",
+    "telegraf": "^3.38.0"
+  }
+}

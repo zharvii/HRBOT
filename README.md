@@ -1,2 +1,2 @@
 # HRBOT
-Bot Slip Gaji
+Telegram Bot Pengambilan Slip Gaji
